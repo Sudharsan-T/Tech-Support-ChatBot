@@ -1,0 +1,10 @@
+# Core packages
+streamlit>=1.32.0
+ollama>=0.4.7
+python-dotenv>=1.0.0
+
+# Additional dependencies
+requests>=2.28.0
+pydantic>=2.0.0
+typingx>=0.1.0
+httpx>=0.24.0
